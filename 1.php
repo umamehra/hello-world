@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>My first PHP page</h1>
-	<h1>MY Second</h1>
+	<h1>MY Second heading</h1>
 <?php
 
 $x = 5;
